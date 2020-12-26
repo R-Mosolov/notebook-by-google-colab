@@ -1,11 +1,11 @@
 # Sociology Scientometric Analysis
 
 ## The General Information
-This repository contains the result of scientometric analysis of sociology using the dataset with articles from CyberLeninka (N = 49820 articles). CyberLeninka is the Russian scientific database indexed in Russian Scientific Citation Index (RSCI).
+This repository contains the result of scientometric analysis of sociology using the dataset with articles from CyberLeninka (_N_ = 49820 articles). CyberLeninka is the Russian scientific database indexed in Russian Scientific Citation Index (RSCI).
 
 ## Notations
-1. Publication – article
-1. Common publication – publication with 2 and more co-authors
+1. _Publication_ – article
+1. _Common publication_ – publication with 2 and more co-authors
 
 ## The Scientific Indicators
 | # | Indicator Title                    |
@@ -44,7 +44,6 @@ This repository contains the result of scientometric analysis of sociology using
 | 8 | Check the hypothesis: average quantity of co-authors and publications intensivity have been lower before 2012 year and have grown after appearing # 2433-r «O gosudarstvennoj programme RF “Razvitie nauki i tehnologij”» order and «5-100» project | Full Author(-s) Name, Publication Year |
 
 ### For analysis of articles content
-### For analysis of articles list (metadata)
 | # | Research Target | Needed Indicators |
 | - |:---------------:|:-----------------:|
 | 1 | Most citating publications | Used Sources List, Article Views, Article Downloads |
