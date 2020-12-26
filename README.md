@@ -1,1 +1,1 @@
-# notebook-by-google-colab
+# sociology-scientometric-analysis
